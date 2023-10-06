@@ -6,9 +6,9 @@ A simple web application which will generate a QR Code.
 
 ## Tech Stacks Used
 
-HTML
-CSS
-JS
+<br>HTML<br>
+<br>CSS<br>
+<br>JS<br>
 
 ## API Used
 
