@@ -30,9 +30,9 @@ git clone https://github.com/YomiyuShambel21/QR-CODE-Generator.git
 
 ## Screenshots
 
-<img src="./ss1.png" />
+<img src="https://github.com/YomiyuShambel21/QR-CODE-Generator/blob/main/ss1.png" />
 
 <br><br>
 After clicking on Generate Button, UI looks like:
 
-<img src="./ss2.png" />
+<img src="https://github.com/YomiyuShambel21/QR-CODE-Generator/blob/main/ss2.png" />
