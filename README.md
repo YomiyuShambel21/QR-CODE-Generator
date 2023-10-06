@@ -21,7 +21,7 @@ Visit Website: https://goqr.me/api/
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone https://github.com/YomiyuShambel21/QR-CODE-Generator.git
 ```
 
 - Go to the directory
@@ -30,9 +30,9 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 
 ## Screenshots
 
-<img src="./Screenshots/ss1.png" />
+<img src="./ss1.png" />
 
 <br><br>
 After clicking on Generate Button, UI looks like:
 
-<img src="./Screenshots/ss2.png" />
+<img src="./ss2.png" />
